@@ -22,11 +22,6 @@ public class RomanNumbersConstans {
         romanNumbers.add(new RomanNumbers("X", 10));
         romanNumbers.add(new RomanNumbers("V", 5));
         romanNumbers.add(new RomanNumbers("I", 1));
-
-
-
-
-
     }
 
     public List<RomanNumbers> getAllNumbersPairs(){

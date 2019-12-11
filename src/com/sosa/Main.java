@@ -18,7 +18,7 @@ public class Main {
 
         // System.out.println(romanNumbers);
 
-        String romanNumberResult = GetNumbersToRomans(10000);
+        String romanNumberResult = GetNumbersToRomans(16);
         System.out.println(romanNumberResult);
     }
 
